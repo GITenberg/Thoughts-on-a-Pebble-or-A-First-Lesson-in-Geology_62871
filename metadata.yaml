@@ -1,5 +1,8 @@
 _repo: Thoughts-on-a-Pebble-or-A-First-Lesson-in-Geology_62871
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62871-h/images/cover.png
 creator:
   author:
     agent_name: Mantell, Gideon Algernon
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52167
     wikipedia: https://en.wikipedia.org/wiki/Gideon_Mantell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62871#Thoughts-on-a-Pebble-or-A-First-Lesson-in-Geology
 gutenberg_issued: '2020-08-07'
 gutenberg_type: Text
 identifiers:
